@@ -4,6 +4,9 @@ Esta guia es desarrollada para mis partners que decidan iniciarse en el aprendiz
  
 "No tengas miedo de lo desconocido, ten miedo de no tener el valor de afrontarlo"
                                                                        -SpikeMM
+
+![alt text](https://repository-images.githubusercontent.com/275384536/be563900-b952-11ea-8cff-e11f87302b8c)
+ 
 ## Introducción a vim
 
 Vim por defecto se encuentra instalado en casi todos los sistema basados en UNIX, si eres usurio Windows debes de descargarlo.
