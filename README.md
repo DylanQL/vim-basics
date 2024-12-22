@@ -10,12 +10,18 @@ Vim por defecto se encuentra instalado en casi todos los sistema basados en UNIX
  
 ## Como entrar y salir de Vim
  
-Para entrar en Vim solo se debe de poner > vim en la terminal
- 
- ```
+Para entrar en Vim solo se debe de poner > vim en la terminal 
+```
 vim
 ```
- 
+En caso de querer editar un archivo existente usando vim puedes hacerlo de las siguientes maneras
+```
+vim nombre_archivo.extensión
+```
+Si no te encuentras en el direccitorio del archivo uso lo siguiente
+```
+vim /Ruta/Archivo/nombre_archivo.extensión
+```
 Para salir de Vim se debe de colocar lo siguiente
 ```
 :q
