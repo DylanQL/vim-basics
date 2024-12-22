@@ -21,7 +21,7 @@ En caso de querer editar un archivo existente usando vim puedes hacerlo de las s
 ```
 vim nombre_archivo.extensión
 ```
-Si no te encuentras en el direccitorio del archivo uso lo siguiente
+Si no te encuentras en el direccitorio del archivo use lo siguiente
 ```
 vim /Ruta/Archivo/nombre_archivo.extensión
 ```
