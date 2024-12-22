@@ -34,4 +34,4 @@ Si en caso el anterior comando te da algùn tipo de error,seguramente es porque 
 :q!
 ```
 
-### Si llegaste aqui Ops! aun siguo redactando esta guia :v 
+### Si llegaste aqui Ops! aun sigo redactando esta guia . . . 
