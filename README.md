@@ -2,7 +2,7 @@
  
 Esta guia es desarrollada para mis partners que decidan iniciarse en el aprendizaje de Vim.
  
-"No tengas miedo de lo desconocido, ten miedo de no tener el valor de afrontalo"
+"No tengas miedo de lo desconocido, ten miedo de no tener el valor de afrontarlo"
                                                                        -SpikeMM
 ## Introducción a vim
 
